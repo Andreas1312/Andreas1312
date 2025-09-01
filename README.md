@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreas1312
-- 👀 I’m interested in DokuWIKI
+- 👀 I’m interested in DokuWIKI, Docker, SSO with Passkeys, open source 
 - 🌱 I’m currently learning AI process automation with n8n
 
 <!---
